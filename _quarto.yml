@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: C:/Users/melser/Documents/GitHub/E-Portfolio
+  output-dir: C:/Users/jessiexm.stu/OneDrive - UBC/Desktop/FCOR599/e-portfolio/E-Portfolio
 
 website:
-  title: "Your E-Portfolio"
+  title: "Jinxin's E-Portfolio"
   navbar:
     left:
       - href: index.qmd

@@ -1,5 +1,5 @@
 ---
-title: "Your E-Portfolio"
+title: "Jinxin's E-Portfolio"
 image: images/MGEM_logo.png
 about:
   template: trestles
@@ -7,18 +7,18 @@ about:
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://www.linkedin.com/in/jinxin-mao-0538bb265/
+    #- icon: twitter
+    #  text: Twitter/X
+    #  href: https://x.com/MelserRamon
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/JessieM126
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:jinxin.mao@mail.mcgill.ca
 ---
 
 Hey there,
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites. 
+I am Jinxin Mao. I am currently in Master of Geomatics for Environmental Management program at UBC. I recently graduate with a Bachelor's degree in Environmental Science from McGill University, eager to contribute academic knowledge and passion for sustainability to a dynamic role in the field of environment and ecology. I am Well-versed in geographic information system, environmental impact assessment, data analysis, and sustainable practices and have strong research and problem-solving skills complemented by a commitment to promoting environmental stewardship. I am seeking an opportunity to apply theoretical knowledge in a practical setting to make a positive impact on the environment.
