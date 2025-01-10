@@ -4,37 +4,30 @@ title: "Resume"
 
 # Education
 
--   List your education here. 
+-   McGill University - Bachelor of Science in Environmental and Agricultural Science
+    -   September 2021 - April 2024
+    -   Major: Environmental Biology
+        -   Specialization: Applied Ecology
+
+        -   Minor: Environment
+    -   GPA: 3.59
+-   University of Toronto - Visiting Student Program
+    -   January 2024 - April 2024
+    -   Geomorphology, Writing about Environment and Ecology
+-   University of British Columbia - Master of Geomatics for Environmental Management
+    -   September 2024 - April 2025
 
 # Publications
 
-*Peer-reviewed publications:*
-
-- List any peer-reviewed publications here.
-
 *Reports:*
 
-- List any non-peer reviewed materials you'd like to share here.
-
-# Conferences & Talks
-
-*Invited Talks*
-
-- If you've been invited to speak in a professional setting, list that here. 
-
-*Conference Presentations*
-
-- If the presentation was at a conference, list them here. 
-
-# Awards & Honors
-
-- List any scholarships, bursaries, etc. 
-
-
-# Teaching Assistantships
-
-- List any TA positions you may have held. 
+-   Long Duration Energy Storage
+-   Management of the Columbia River
+-   Wetland Restoration Project Report: Lake Winnipeg Basin and Taihu Lake Basin
 
 # Institutional Service
 
-- Volunteering etc. 
+-   Removal of Invasive Plant Species Volunteer Project: Garlic Mustard
+    -   April 2023 to May 2023
+    -   Organization: Department of Natural Resource Sciences at McGill University
+    -   Contributed to the removal of the invasive species garlic mustard around the campus, promoting the restoration of local ecosystems
